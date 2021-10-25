@@ -1,0 +1,29 @@
+{
+  "name": "planet-exploration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFuseGamer/planet-exploration.git"
+  },
+  "keywords": [
+    "planet",
+    "exploration",
+    "nasa",
+    "kepler",
+    "koi"
+  ],
+  "author": "Amir Halloul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFuseGamer/planet-exploration/issues"
+  },
+  "homepage": "https://github.com/TheFuseGamer/planet-exploration#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.3"
+  }
+}
